@@ -3,7 +3,7 @@
     "description": "This repo is continuously integrated with TravisCI!",
     "type": "library",
     "version": "1.0.0",
-    "keywords": ["travis", "php"],
+    "keywords": ["travis"],
     "license": "MIT",
     "minimum-stability": "stable",
     "require": {
