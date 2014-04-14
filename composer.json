@@ -1,0 +1,12 @@
+{
+    "name": "GITHUB_USERNAME/REPO_NAME",
+    "description": "The description of your repo here.",
+    "keywords": ["framework", "php"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jimmy Corn",
+            "email": "jimmy@corn.com"
+        }
+    ]
+}
