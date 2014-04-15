@@ -1,6 +1,6 @@
 {
     "name": "clouddueling/travis-test",
-    "description": "The description of your repo here.",
+    "description": "Example repo of continuously integrating a PHP application.",
     "keywords": ["framework", "php"],
     "license": "MIT",
     "authors": [
@@ -8,5 +8,10 @@
             "name": "Jimmy Corn",
             "email": "jimmy@corn.com"
         }
-    ]
+    ],
+    "autoload": {
+        "psr-0": {
+            "CloudDueling": "src/"
+        }
+    }
 }
