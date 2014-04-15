@@ -1,5 +1,4 @@
-<?php
-namespace Organization\Module;
+<?php namespace Organization\Module;
 
 class Library
 {

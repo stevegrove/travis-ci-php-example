@@ -1,6 +1,6 @@
 <?php
 
-use \Organization\Module;
+use \Organization\Module\Library;
 
 class LibraryTest extends PHPUnit_Framework_TestCase
 {
