@@ -1,7 +1,7 @@
 <?php
-namespace CloudDueling\Example;
+namespace Organization\Module;
 
-class Example
+class Library
 {
   public function whatAmI()
   {
